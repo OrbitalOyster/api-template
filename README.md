@@ -1,8 +1,8 @@
 # Installation
 ```bash
-mkdir myapp
-cd myapp
-git clone https://github.com/OrbitalOyster/app-template .
+mkdir myapi
+cd myapi
+git clone https://github.com/OrbitalOyster/api-template .
 mv .env_sample .env
 npm install
 ```
